@@ -1,4 +1,5 @@
-This repository has the files for a possible publication about social bias quantification in Large Language Models (LLMs). 
+# Article
+Mohammed I. Radaideh, O Hwang Kwon, Majdi I. Radaideh, "Fairness and Social Bias Quantification in Large Language Models for Sentiment Analysis", Knowledge Based Systems, 2025, In Production. 
 
 # Installation 
 The best way to run the codes is using Anaconda. Create an Anaconda environment with Python 3.11 and install the required packages using:
